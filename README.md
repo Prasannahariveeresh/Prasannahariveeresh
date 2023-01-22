@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prasannahariveeresh
-- 👀 I’m interested in ML, Data Science, Full Stack Web Development w/ MERN, Flask
+- 👀 I’m interested in ML, Data Science, Computer Vision, Full Stack Web Development w/ MERN, Flask
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on some open source applications based on my fields of interest
 - 📫 Mail: prassijr@gmail.com
