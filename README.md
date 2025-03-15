@@ -10,6 +10,6 @@
 - 🌱 **Currently Learning:** ROS 2  
 
 ### 🤝 Collaboration & Contact  
-- 💡 Looking to collaborate on **open-source applications** in my fields of interest  
+- 💡 Looking to collaborate on **research** and **open-source applications** in my fields of interest  
 - 📫 **Email:** [prassijr@gmail.com](mailto:prassijr@gmail.com)  
 - 📝 **Blog:** [jrprasanna.com](https://jrprasanna.com/)  
