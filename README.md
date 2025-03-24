@@ -2,7 +2,7 @@
 
 ### 🎓 Education & Internship  
 - 🏫 **Studying at** Amrita Vishwa Vidyapeetham  
-- 🔬 **Intern at** HuT Labs, Amrita Vishwa Vidyapeetham  
+- 🔬 **Research Intern at** HuT Labs, Amrita Vishwa Vidyapeetham  
 - ⚡ **IEEE Member**  
 
 ### 🔍 Interests & Learning  
