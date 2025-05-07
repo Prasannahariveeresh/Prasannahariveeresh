@@ -6,8 +6,8 @@
 - ⚡ **IEEE Member**  
 
 ### 🔍 Interests & Learning  
-- 👀 **Fields of Interest:** Machine Learning, Data Science, Computer Vision, Robotics
-- 🌱 **Currently Learning:** ROS 2  
+- 👀 **Interests:** Machine Learning, Computer Vision, Robotics, AI Agents, LangChain, and Data Science  
+- 🌱 **Currently Learning:** ROS 2 and real-time robotic systems  
 
 ### 🤝 Collaboration & Contact  
 - 💡 Looking to collaborate on **research** and **open-source applications** in my fields of interest  
